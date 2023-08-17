@@ -1,0 +1,76 @@
+/* index.css */
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.profile-image {
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; 
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+/* Landing Section */
+.landing-section {
+        background-color: black;
+        color: #0077b6;
+}
+
+/* Projects Section */
+.project-one-section {
+    background-color: #3498db; 
+    
+}
+
+/* Tools Section */
+.project-two-section {
+    background-color: #3498db;
+    
+}
+
+/* Contact Section */
+.project-three-section {
+    background-color: #3498db;
+    
+}
+
+
+/* Background style */
+.toolone-section {
+    background-color: #f0f0f0;
+    color: #0077b6;
+}
+
+.toolstwo-section {
+    background-color: #f0f0f0;
+    color: #0077b6;
+
+}
+.toolsthree-section {
+    background-color: #f0f0f0;
+    color: #0077b6;
+
+}
+
+/*contact*/
+.contact-section {
+    background-color: #f0f0f0;
+}
+
+
